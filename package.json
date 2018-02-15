@@ -1,0 +1,24 @@
+{
+  "name": "emojis",
+  "version": "1.0.0",
+  "description": "An always up to date emoji cheatsheet for github",
+  "scripts": {
+    "start": "start http://localhost:9000/webpack-dev-server/index.html & webpack-dev-server --hot",
+    "build": "webpack",
+    "autobuild": "webpack -w"
+  },
+  "author": "bitphinix",
+  "dependencies": {
+    "@types/react": "^16.0.38",
+    "@types/react-dom": "^16.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0",
+    "awesome-typescript-loader": "^3.4.1",
+    "typescript": "^2.6.2",
+    "source-map-loader": "^0.2.3",
+    "webpack-dev-server": "^2.10.1"
+  }
+}

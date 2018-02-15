@@ -1,0 +1,25 @@
+body {
+    font-family: roboto;
+    background: #fefefe;
+}
+
+.emojiContainer {
+    text-align: center;
+}
+
+.emojiShowcase {
+    display: inline-block;
+    min-width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.emojiShowcase p {
+    margin-top: 5px;
+}
+
+.emojiShowcase img {
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
