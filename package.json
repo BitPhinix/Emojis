@@ -9,7 +9,7 @@
   },
   "author": "bitphinix",
   "dependencies": {
-    "@types/react": "16.0.38",
+    "@types/react": "16.7.6",
     "@types/react-dom": "16.0.4",
     "react": "16.2.0",
     "react-dom": "16.2.0"
