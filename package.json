@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "webpack": "3.11.0",
-    "awesome-typescript-loader": "3.4.1",
+    "awesome-typescript-loader": "3.5.0",
     "typescript": "2.7.1",
     "source-map-loader": "0.2.3",
     "webpack-dev-server": "2.11.1"
